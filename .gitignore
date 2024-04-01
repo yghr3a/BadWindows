@@ -1,6 +1,5 @@
-*.exe
-*.mp4
 
+BadWindows.exe
 
 *.lock
 *.vsidx
@@ -23,4 +22,3 @@
 
 vs/
 x64/
-src/
